@@ -1,4 +1,4 @@
-# NYC_SHSAT_Admission_Analysis
+# NYC SHSAT Admission Analysis
 
 ## Description:
 In NYC, there are 8 highly selective public high schools (HSPHS). The admission of these schools are based on scoring sufficiently on a single test, Specialized High Schools Admissision Test (SHSAT). 
