@@ -19,3 +19,16 @@ The columns represent:
 - U: School size (Number of students in the entire school)
 - V: Average student achievement on a state-wide standardized test
 - W-X: Proportion of students exceeding state-wide expectations in reading and math
+
+## Findings:
+
+
+
+## Analysis:
+
+### Correlation between the number of applications and admissions
+![Correlation](images/correlation_applicationAdmission.png)
+- The correlation is 0.81 (p<0.01)
+- This indicates that as the number of applications increases, the admission increases as well. 
+- Overall, lower applications (<50) do not increase admissions as much and the increase is readily seen past 100 applications
+
